@@ -1,7 +1,6 @@
-# intro
-intro repo
-kunal
-kabra
+# My first repository on github
 
-I am Under graduate student.
+kunal kabra
+
+I am Under graduate student currently purusing my degree in BIT Bangalore.
 
